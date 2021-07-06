@@ -28,4 +28,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run Testproject Job
-        run: docker-compose -f binh.yml up -d
+        run: docker-compose -f binh.yml up
