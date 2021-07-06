@@ -9,7 +9,7 @@ services:
     environment:
       TP_API_KEY: "So2QTzHLSxUmiVZdepQTaYKj7EKgcJ59LfQ6oluP7581"
       TP_AGENT_ALIAS: "Docker Agent"
-      TP_JOB_ID: "V-TJw7LYFEW7cg9Qu4ovRg"
+      TP_JOB_ID: "QVc1mRKhtUuFPxx3ebDFhg"
       TP_JOB_PARAMS: '"jobParameters" : { "browsers": ["chrome"] }'
       CHROME: "chrome:4444"
       FIREFOX: "firefox:4444"
