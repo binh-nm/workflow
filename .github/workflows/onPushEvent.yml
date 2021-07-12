@@ -1,4 +1,4 @@
-name: Testproject CCDCD
+name: Testproject CI/CD
 
 on:
   push:
